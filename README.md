@@ -1,79 +1,65 @@
-<p align="center">
-	<img
-		width="300"
-		alt="4Geeks Academy"
-		src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/background_art.jpg?raw=true">
-</p>
 
-
-<h1 align="center">Welcome to 4Geeks Academy</h1>
-
-<h3 align="center">&lt;\ Time To Code&gt;</h3>
-<p align="center">The place where developers grow and thrive.</p>
-
-<p align="center">
-  <a href="https://4geeksacademy.co/">
-    <img src="https://img.shields.io/badge/👫-+5134_students-1d2935.svg?style=flat" alt="Students">
-  </a>
-  <a href="https://4geeksacademy.co/">
-    <img src="https://img.shields.io/badge/👫-+453_partners-1d2935.svg?style=flat" alt="Partners">
-  </a>
-  <a href="https://4geeksacademy.co/">
-    <img src="https://img.shields.io/badge/💼💰-86%25_hiring_rate-1d2935.svg?style=flat" alt="Hiring Rate">
-  </a>
-  <a href="https://4geeksacademy.co/">
-    <img src="https://img.shields.io/badge/🌎-worldwide-1d2935.svg?style=flat" alt="Branches">
-  </a>
-  <a href="https://4geeksacademy.co/">
-    <img src="https://img.shields.io/badge/⭐️-5_star_reviews-1d2935.svg?style=flat" alt="Reviews">
-  </a>
-</p>
+ 
 
   
 ## Contents
 
-- [About](#about).
-- [Team](#team).
-- [Awards](#awards).
-- [Alumni](#alumni).
+- [basic_info](#basic_info).       
+- [education](#previousstudies).
+- [experience](#Previousjob).
+- [projects](#Describetheprojectsyou'vebuiltasadeveloper).
+- [skills](#Listyourskillswithapercentageofexpertise).
 
-## About
+basic_info: Personal info.
+education: Previous studies.
+experiences: Previous jobs.
+projects: Describe the projects you've built as a developer.
+skills: List your skills with a percentage of expertise.
 
-4Geeks Academy is the place where developers grow and thrive. We are licensed by the USA Dep. of Education in Florida. 
 
-- 👨‍👩‍👧‍👦 **Community**: 4Geeks Academy has graduated 3000+ people, all of them have access to our [slack channel](https://4geeksacademy.slack.com/) and [online platform 4Geeks.com](https://4Geeks.com). 
-- 💻 **Platform**: [4Geeks.com](https://4Geeks.com) is where developers meet, network, and learn. Currently, in private beta, the platform members can throw coding parties, ask for 1-1 mentorships in one click, join live workshops every week, take live classes a couple of times a week, meet new developers, and more.
-- 🎖 **Certifications and Courses**: We currently offer Introduction to coding, [Full Stack Web Developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), [Software Engineering](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) (for senior software architects), [Data Science Engineer](https://4geeksacademy.com/us/coding-bootcamps/data-science-engineer) and [Machine learning and AI Engineering](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering). You can find the [full list of our programs here](https://4geeksacademy.com/programs).
-- 💼 **Find or improve your current job**: Our primary focus is to make developers succeed: A great network of hiring partners, resume building, interview preparation, and many other essential workforce-oriented features are what make us rank among the best coding institutions in the world.
+## Personal info
 
-## Team
+Multilingual professional fluent in English, Spanish, and Portuguese, with 4 years of experience as a Language Data Analyst for a global tech company's personal voice assistant. In this role, Imo duties envolved annotation, localisation, translation, editing and curation of data for the Brazilian Portuguese market, contributing to the training of Natural Language Processing (NLP) models. My previously work as a Communication Advisor, my responsables were managing clients in the finance and non-profit sectors, focusing on crisis management, brand awareness, and social media strategy. Currently, to improve my skills in data analysis and AI, I am m attending the Bootcamp in Data Science and Machine Learning at the 4Geeks Academy. 
 
-4Geeks Academy was founded by [Marcelo](https://www.linkedin.com/in/marcelo-ricigliano-32440379/) and [Alejandro](https://twitter.com/alesanchezr), best friend's [since high school](https://www.4geeksacademy.co/4geeks-academy-history/).  
-You will fall in love with our teachers that work in top companies and have many years of experience.  
-Every location has a full hands on team with -almost- full independence:
+Proactive|Strategic Thinking|Empathy|Problem-Solving|Communication|Accuracy  
 
-- [Victor](https://www.linkedin.com/in/victormgomezp/) and [Marco](https://www.linkedin.com/in/marcogonzalo/) lead [🇪🇺 Europe](https://4geeksacademy.com/us/coding-campus/europe-online-coding-bootcamp).
-- [Jonathan](https://www.linkedin.com/in/jonathan-toledo/) and [Jennifer](https://www.linkedin.com/in/jennifer-toledo-vargas/) lead [🇨🇱 Chile](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-santiago).
+## Education
 
-## Awards
+BOOTCAMP in DATA SCIENCE AND MACHINE LEARNING, 4GEEKS Academy, BARCELONA, SPAIN - Sept 2024 - Present. 
+digital marketing, online udemy - 2018-2018. 
+MSc in international business and global branding management, Griffith college, Dublin, Ireland - 2014 - 2016. 
+certification in public relations, malahide school, Dublin, Ireland -  2011-2011. 
+BACHELOR DEGREE IN SOCIAL COMMUNICATION, WITH AN EMPHASIS IN JOURNALISM, FACHA COLLEGE, RIO DE JANEIRO, BRAZIL - 2006 - 2011. 
 
-- Chosen as one of the top 35 bootcamps of the world and top coding bootcamp in Miami according to SwitchUp and Course Report. 
-- Recognized as the top 10 coding bootcamps in the United States according to Newsweek.
-- And [many other awards](https://4geeksacademy.com/us/awards).
+## Experiences
 
-## Alumni
+LINGUISTICS Data Analyst, Telus INTERNATIONAL, BARCELONA, SPAIN — SeptEMBER 2020-JunE 2024 
+Analysing, manipulating and cleaning of large linguistic data sets to enhance AI/ML performance for a global tech company's Personal Voice Assistant. 
+Working with annotation, localisation, translation, editing and curation specifically for the Brazilian Portuguese market data to train Natural Language Processing (NLP) models.
+Solving solutions to improve the Personal Voice Assistant domain parser classification metrics. Creating predictions to improve the model and user experience. Regularly provided feedback and authored detailed reports for the client, outlining issues identified and the corrective actions implemented.
 
-- As of 2022 we have graduated ~3100 students, 84% of them get a job or pay increase after the bootcamp.
-- We have graduates that have been hired by Microsoft, Github, Ebay, Facebook and many other Forbes 500 companies.
-- You can read more about our graduates in our [outcomes](https://4geeksacademy.com/us/outcomes) and [testimonials](https://4geeksacademy.com/us/testimonials).
-- You can [see the projects they have built during the program here](https://4geeksacademy.com/us/students-and-projects).
+Achievements: Ensured the delivery of tasks by the deadline and maintained the accuracy of the domain metrics above the desired level. The idea she gave for improving the company's intranet, such as creating a profile for employees to write about their hobbies and experiences. The idea was suggested so that we employees could get to know each other better.  
 
-## Running this project
+Relocated to Barcelona, Spain - October 2019
+communication advisor, fsb communication agency, rio de janeiro, brazil — JANUARY 2019- AUGUST 2019
+Developed, executed, and evaluated communications strategies plans. 
+Managed crisis and monitored external communication channels, including press and social networks, while preparing compelling, strategically aligned content for various mediums.
+Responsable for brand development and reputation management. Additionally, managed project delivery of events and campaigns. 
+Achievements: Due to her fluency in English and extensive international experience, Marianna assumed leadership of a crucial international fintech client, strategically bolstering their visibility and brand presence within the Brazilian market about 500%. 
+COPYWRITER — BRASILEIRAS PELO MUNDO, Barcelona, Spain JUNE 2017- MARCH 2018; remoto Social media manager - mb beauty centre, Dublin, Ireland  January 2018- MARCH 2018
+BRASILEIRAS PELO MUNDO: Authored engaging articles focused on Barcelona and Dublin, incorporating SEO-friendly content strategies. Created creative texts to resonate with target readers and translated articles from English to Portuguese. 
+MB Beauty Center: Wrote and created designs incorporating both video and images, in English and Portuguese languages to captivate audiences on Facebook and Instagram. Sent report weekly with the performance metrics, implementations and positive results. 
+Achievements for BRASILEIRAS PELO MUNDO:  Reached over 17,000 views per article and significantly increased engagement on Facebook and Instagram posts to over 4,000 likes. Achievements  for MB Beauty Center: Increasing followers on Facebook and Instagram. As a result of her impactful and engaging content, an influential Irish personality opting to utilise the services of the center and promote it on her Instagram platform.
+DATA ANALYST - GLOBETECH, CORK, IRELAND — APRIL 2017-MAY 2017
+Worked on an important IT project, enhancing data accuracy through analysis and subsequent evaluation results. Developed management systems records, identifying areas for increased efficiency and monitoring and auditing data quality. 
+Responsible for natural language processing (NLP), transcription, and annotation, including correcting any typos from the automatic system when processing texts and information in Portuguese. 
+Achievements: Consolidated 2000 data points per day, emerging one of the fastest and most effective team members. Improved analytical skills to shape data analysts’ interpretations and analyse data to draw conclusions and identify patterns. Demonstrated ability to meet deadlines and handle pressure while  coordinating multiple tasks. 
 
-There are two ways you can run the website, pick one:
 
-A) If you have python:
+## Projects
 
-```py
-$ npm run build
-```
+- Still working on it.
+  
+## Skills
+
+Language: Portuguese (Native), English (Fluent), Spanish (Advanced).  Technical Skills: SQL, Python, Tableau, Pandas, Numpy, Microsoft Office, Canva, WordPress, IOS, Google Analytics
