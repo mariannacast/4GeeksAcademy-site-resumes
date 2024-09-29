@@ -1,4 +1,5 @@
-
+template: "online-cv"
+skin: "blue"
  
 
   
@@ -9,12 +10,6 @@
 - [experience](#Previousjob).
 - [projects](#Describetheprojectsyou'vebuiltasadeveloper).
 - [skills](#Listyourskillswithapercentageofexpertise).
-
-basic_info: Personal info.
-education: Previous studies.
-experiences: Previous jobs.
-projects: Describe the projects you've built as a developer.
-skills: List your skills with a percentage of expertise.
 
 
 ## Personal info
